@@ -2,7 +2,7 @@
 This program search through a directory structure.
 All duplicate files are written to a text file, as is their directory location.
 Files are determined duplicate by content, size and name.
-As the program launches, a user is asked to specify a diretory, if no directory or an invalid directory is entered,
+As the program launches, thr user is asked to specify a directory, if no directory or an invalid directory is entered,
 the program will return an approriate error message and use the programs dicretory as default.
 
 Currently I'm working on refactoring. 
